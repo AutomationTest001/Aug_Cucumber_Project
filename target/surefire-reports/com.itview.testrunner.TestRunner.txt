@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.itview.testrunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 89.378 s - in com.itview.testrunner.TestRunner
